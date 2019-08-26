@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{22A0D8E8-F33C-A29A-A4B4-B00DECF694AB}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlaceForest.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlaceForest.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
